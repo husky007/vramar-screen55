@@ -433,46 +433,6 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pharmascreen-128x128.png",
-              "width": 128,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "sites",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>Adresa</strong><br>\nKrapinska 14<br>\n10297 Jakovlje",
-          "text2": "<strong>Kontaktirajte nas</strong><br>\nEmail: mario@vramar-screen.com<br>Informacije: info@vramar-screen.com<br>Marketing: <br>marketing@vramar-screen.com<br>Podrška: podrska@vramar-screen.com<br>\nMobitel: 091 3131 343<br>Skype:&nbsp;mario_vrabec",
-          "text3": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-3"
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -532,9 +492,9 @@
           "text1": "<b>Direktor: Mario Vrabec</b>",
           "text2": "091-313-1343",
           "text3": "Vramar j.d.o.o.<br>Krapinska 14<br>10297 JAKOVLJE<br>HRVATSKA",
-          "text4": "<a href=\"mailto:mario@vramar-screen.com\">m</a>ario@vramar-screen.com<br>",
-          "text5": "<li><a class=\"text-white\" href=\"o-nama.html\">O</a>&nbsp;NAMA</li><li><a class=\"text-white\" href=\"#\">O</a>&nbsp;PROJEKTU</li><li><a class=\"text-white\" href=\"#\">Š</a>TO RADIMO</li><li><a class=\"text-white\" href=\"#\">K</a>ONTAKT</li><li><a class=\"text-white\" href=\"#\">O</a>GLASNI PROSTOR</li>",
-          "text6": "<strong>Kontaktirajte nas</strong><br>Informacije:<br>info@vramar-screen.com<br><br>Tehnička podrška:<br>podrska@vramar-screen.com<br><br>Marketing i oglašavanje:<br>marketing@vramar-screen.com&nbsp;<br><br><br><br>",
+          "text4": "<a href=\"mailto:mario@vramar-screen.com\">mario@vramar-screen.com</a><br>",
+          "text5": "<li><a class=\"text-white\" href=\"o-nama.html\">O&nbsp;NAMA</a></li><li><a class=\"text-white\" href=\"o-projektu.html\">O&nbsp;PROJEKTU</a></li><li><a class=\"text-white\" href=\"sto-radimo.html\">ŠTO RADIMO</a></li><li><a class=\"text-white\" href=\"kontakt.html\">KONTAKT</a></li><li><a class=\"text-white\" href=\"oglasni-prostor.html\">OGLASNI PROSTOR</a></li>",
+          "text6": "<strong>Kontaktirajte nas</strong><br>Informacije:<br><a href=\"mailto:info@vramar-screen.com\">info@vramar-screen.com</a><br><br>Tehnička podrška:<br><a href=\"mailto:podrska@vramar-screen.com\">podrska@vramar-screen.com</a><br><br>Marketing i oglašavanje:<br><a href=\"mailto:marketing@vramar-screen.com\">marketing@vramar-screen.com</a>&nbsp;<br><br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "mario@vramar-screen.com",
@@ -1419,7 +1379,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/radite-s-nama-pharmascreen-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/radite-s-nama-vramar-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
